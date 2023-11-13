@@ -1,0 +1,32 @@
+body{
+}
+.main-div{
+    background:white;
+    padding-left: 260px;
+    height: 720px;
+    padding-right: 390px;
+}
+.navbar{
+    background-color: red;
+    height: 25px;
+    
+}
+a{
+    text-decoration: none;
+    color: #eaedd5;
+    align-items: center;
+    font-size: 20px;
+    padding-left: 70px;  
+}
+.a{
+    padding-left: 110px;
+    }
+h1{
+        font-size: 40px;
+        font-weight: 60px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
